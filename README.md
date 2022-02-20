@@ -1,2 +1,2 @@
-# miclauscorp.github.io
-MiclausCorp Github Pages
+# Welcome
+Welcome to the MiclausCorp Github Page.
